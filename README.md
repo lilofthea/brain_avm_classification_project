@@ -19,7 +19,7 @@ We used rotation, horizontal and vertical flip, brigthness change, shear, zoomin
 
 ## Model
 
-###Pre-trained Model Selection
+### Pre-trained Model Selection
 To perform image classification with higher accuracy, we used pre-trained models from keras's application module.
 VGG16, VGG19, ResNet50v2, MobileNetv2 and EfficientNetB0 are the pre-trained models that we trained and compared by their accuracy.
 
