@@ -9,9 +9,9 @@ This dataset contains 7084 images of human brain MRI images which are classified
 
 ### Data Pre-processing
 After splitting them into train-val-test datasets with 70-20-10 ratio, we had 
-- 4958 for training 
-- 1418 for validation
-- 708 for testing
+- 4678 for training 
+- 1338 for validation
+- 668 for testing
 
 ### Augmentation
 Augmentation was needed to improve our accuracy.
