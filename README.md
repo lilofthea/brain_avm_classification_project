@@ -14,8 +14,8 @@ After splitting them into train-val-test datasets with 70-20-10 ratio, we had
 - 668 for testing
 
 ### Augmentation
-Augmentation was needed to improve our accuracy.
-We used rotation, horizontal and vertical flip, brigthness change, shear, zooming as techniques.
+After cropping our images, augmentation was needed to improve our accuracy.
+We used rotation, horizontal and vertical flip, brigthness change, shear, zooming as techniques. 
 
 ## Model
 
